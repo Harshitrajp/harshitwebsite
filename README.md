@@ -1,2 +1,1 @@
-# harshitwebsite
-ON-CAMPUS PLACEMENT MATERIALS FOR MITS STUDENTS
+https://github.com/Harshitrajp/harshitwebsite.git
